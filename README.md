@@ -1,1 +1,1 @@
-# Project in Python Calculator
+# Python Calculator
